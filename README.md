@@ -29,7 +29,7 @@ Your voice in the video is very important. We want to know what you are thinking
 operation. You can also talk about your understanding of any requirements, ask questions or show your ideas in the
 video.
 
-You can just use Chinese when speaking.
+Please use English when speaking.
 
 You can record several videos, one video for one requirement.
 
